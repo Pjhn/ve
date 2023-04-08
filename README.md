@@ -30,8 +30,8 @@ node설치(16.0.0 버전 사용했음), git 설치, visual studio code 설치
 
 1번 방법.
 
-vue add vuetify
-vue add electron-builder
+vue add vuetify /
+vue add electron-builder /
 yarn electron serve
 순서로 실행
 
@@ -41,10 +41,10 @@ yarn electron serve
 
 2번 방법.
 
-powershell 실행
-원하는 파일 위치로 이동
-vue create ve 실행
-history 부분만 no로 하고 파일 생성
+powershell 실행 /
+원하는 파일 위치로 이동 /
+vue create ve 실행/
+history 부분만 no로 하고 파일 생성/
 이후 1번방법 실행
 
 
